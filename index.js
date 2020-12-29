@@ -15,7 +15,7 @@ function johnLennonFacts() {
 //  "He was a choir boy and boy scout",
 //  "He hated the sound of his own voice"
 //];
- 
+
 // function johnLennonFacts(facts) {
   // const arr=[];
   // let i = 0;
