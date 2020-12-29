@@ -9,7 +9,7 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 function johnLennonFacts() {
-  var facts = ["He was a choir boy and boy scout", "He hated the sound of his own voice", "While on tour, he enjoyed playing Monopoly", "Harmonica was the first instrument Lennon learned to play"];
+  var facts = ["While on tour, he enjoyed playing Monopoly", "Harmonica was the first instrument Lennon learned to play"];
   var array = [];
   var i = 0;
   while (array.length < facts.length) {
